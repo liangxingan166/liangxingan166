@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @liangxingan166
+- 👀 I’m interested in Backend development.I’m currently learning PHP.
+- 🌱 Backend development enthusiast, specializing in PHP. Open to new ideas and continually seeking to improve my coding skills.
